@@ -1,7 +1,23 @@
 # lbyec72-ei2-p5-strings-beaalberto
 
-![](Main5.PNG)
+![](Main4.PNG)
 
-![](EnterString.PNG)
+![](ErrorMain.PNG)
 
-![](EnterChar.PNG)
+![](Enter.PNG)
+
+![](ErrorEnter.PNG)
+
+![](AddString.PNG)	
+ 
+![](Remove.PNG) 
+ 
+![](ErrorRemove.PNG)
+
+![](View.PNG)
+ 
+![](Search.PNG)
+ 
+![](ErrorSearch.PNG)	
+
+![](Exit.PNG)
