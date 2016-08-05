@@ -29,6 +29,8 @@
 
 ![](EnterSD.PNG)
 
+![](EnterSD2.PNG)
+
 ![](AddSD.PNG)
 
 ![](EditSD.PNG)
@@ -44,5 +46,7 @@
 ![](SearchID.PNG)
 
 ![](SearchA.PNG)
+
+![](ExitSD.PNG)
 
 
